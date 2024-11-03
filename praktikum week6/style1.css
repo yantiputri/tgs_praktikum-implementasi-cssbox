@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+
+.container {
+    display: flex;
+    border-color: aqua red yellowgreen blue;
+    float: right;
+
+}
+.item-1 {
+    background-color: violet;
+}
+
+.item-2 {
+    background-color: tomato;
+}
+
+.item-3{
+    background-color: green;
+}
+
+.item-4{
+    background-color: blueviolet;
+}
+
+.kotak {
+    width: 200px;
+    height: 500px;
+    border: solid;
+    margin-right: 100px;
+}
+
